@@ -64,3 +64,92 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.navmenu {
+	font-size: 20px;
+	word-spacing: 75px;
+	margin-left: 50px;
+	margin-right: 25px;
+	padding 350px;
+}
+
+h1 {
+	font-size: 100px;
+	width: 50%;
+	position: relative;
+	top: 10px;
+	margin-top: 10px;
+	margin-left: 100px;
+	display: inline-block;
+}
+
+button {
+	color: grey;
+	background-color: skyblue;
+	padding: 10px 30px;
+	display: inline-block;
+  }
+  
+  button:hover {
+	background-color: yellow;
+	border: 2px solid green;
+	color: green;
+  }
+
+  .circleimage {
+	position: relative;
+	  top: 75px;
+	  margin-right: -100px;
+  }
+
+  .toptext{
+	column-count: 2;
+	column-span: all;
+	width: 1200px;
+	padding: 50px;
+	margin-top: 150px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 150px;
+	}
+
+ .middle-img {
+	column-count: 1;
+	column-span: all;
+	width: 1200px;
+	margin-top: 100px;
+	margin-left: 25px;
+  }
+
+  .bottomtext {
+	column-count: 3;
+	column-span: all;
+	width: 1200px;
+	padding: 50px;
+	margin-top: 150px; 
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 150px;
+  }
+
+  .contact {
+	column-count: 1;
+	column-span: all;
+	width: 175px;
+	margin-top: -25px; 
+	margin-left: 100px;
+	margin-right: 50px;
+	margin-bottom: 50px;
+	padding: 10px;
+	  
+  }
+
+  .footer {
+	  width: 1000px;
+	  margin-top: 25px; 
+	  margin-left: 600px;
+	  margin-right: 100px;
+	  margin-bottom: 50px;
+	  padding: 10px;
+	
+  }
